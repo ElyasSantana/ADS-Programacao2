@@ -1,0 +1,26 @@
+{
+  "name": "ads-programacao2",
+  "version": "1.0.0",
+  "description": "Repositório para  realizar atividades desenvolvidas durante o curso da disciplina de Programação 2 do curso de ADS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElyasSantana/ADS-Programacao2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElyasSantana/ADS-Programacao2/issues"
+  },
+  "homepage": "https://github.com/ElyasSantana/ADS-Programacao2#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4"
+  }
+}
