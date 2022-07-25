@@ -6,13 +6,7 @@ Repositório para realizar atividades desenvolvidas durante o curso da disciplin
 
 Instale o make(https://howtoinstall.co/pt/make) ou use o padrão
 
-### Atividade - 01
-
-`make atividade01`
-
-`tsc atividade01_elyas/index.ts && node atividade01_elyas/index `
-
-### Atividade - 04
+### Atividade - 05
 
 ### Para instalar dependecias
 
@@ -20,10 +14,5 @@ Instale o make(https://howtoinstall.co/pt/make) ou use o padrão
 
 ### Para executar
 
-`npm run dev`
-
-`npm run build`
-
 `npm run start`
-
-`npm run prod`
+`npm run dev`

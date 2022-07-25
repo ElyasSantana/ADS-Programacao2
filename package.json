@@ -4,10 +4,10 @@
   "description": "Repositório para  realizar atividades desenvolvidas durante o curso da disciplina de Programação 2 do curso de ADS",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --watch \"atividade04/srcts/\" -e \"ts, json\" --exec \"ts-node atividade04/srcts/index.ts\"",
+    "dev": "nodemon --watch \"atividade04/srcts/\" -e \"ts, json\" --exec \"ts-node api/index.ts\"",
     "build": "tsc",
     "prod": "npm run build; node atividade04/outjs/index.js",
-    "start": "node atividade04/outjs/index.js",
+    "start": "nodemon api/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
