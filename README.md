@@ -10,9 +10,12 @@ Instale o make(https://howtoinstall.co/pt/make) ou use o padrão
 
 ### Para instalar dependecias
 
+`make build`
+
 `npm install`
 
 ### Para executar
 
+`make run`
 `npm run start`
 `npm run dev`
