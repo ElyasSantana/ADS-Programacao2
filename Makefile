@@ -4,3 +4,6 @@ build:
 
 run:
 	npm run dev
+
+front:
+	ts-node src/index.ts
